@@ -1,6 +1,5 @@
 # PostsCRUD   
-this project is for practicing and using Redux Toolkit and React Router also used 
-
+this project is for practicing and using Redux Toolkit and React Router also used json server 
 technologies : React - ReactRouter - Redux toolKit - React Bootstrap 
 
 
